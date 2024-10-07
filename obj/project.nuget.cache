@@ -1,8 +1,17 @@
 {
   "version": 2,
-  "dgSpecHash": "/f/4iGkLFNk=",
+  "dgSpecHash": "+7Jt0VuvR7E=",
   "success": true,
   "projectFilePath": "C:\\Users\\r_cad\\Documents\\Grado\\PSPCharacter-master\\Ejercicio1.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\r_cad\\.nuget\\packages\\xunit\\2.9.2\\xunit.2.9.2.nupkg.sha512",
+    "C:\\Users\\r_cad\\.nuget\\packages\\xunit.abstractions\\2.0.3\\xunit.abstractions.2.0.3.nupkg.sha512",
+    "C:\\Users\\r_cad\\.nuget\\packages\\xunit.analyzers\\1.16.0\\xunit.analyzers.1.16.0.nupkg.sha512",
+    "C:\\Users\\r_cad\\.nuget\\packages\\xunit.assert\\2.9.2\\xunit.assert.2.9.2.nupkg.sha512",
+    "C:\\Users\\r_cad\\.nuget\\packages\\xunit.core\\2.9.2\\xunit.core.2.9.2.nupkg.sha512",
+    "C:\\Users\\r_cad\\.nuget\\packages\\xunit.extensibility.core\\2.9.2\\xunit.extensibility.core.2.9.2.nupkg.sha512",
+    "C:\\Users\\r_cad\\.nuget\\packages\\xunit.extensibility.execution\\2.9.2\\xunit.extensibility.execution.2.9.2.nupkg.sha512",
+    "C:\\Users\\r_cad\\.nuget\\packages\\xunit.runner.visualstudio\\3.0.0-pre.35\\xunit.runner.visualstudio.3.0.0-pre.35.nupkg.sha512"
+  ],
   "logs": []
 }
