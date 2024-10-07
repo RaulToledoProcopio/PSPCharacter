@@ -8,8 +8,5 @@ Por hacer:
 
 - Investigar como convertir el overhealing en escudo, fijo o temporal.
 - Cambiar atributos a private o protected.
-- Completar el draw.io con las cardinalidades.
 - Mejorar la documentación.
 - Prueba unitaria.
-
-![imagen](https://github.com/user-attachments/assets/9e3516ef-ef8b-4d4f-84c1-05ea3a0c5d82)
