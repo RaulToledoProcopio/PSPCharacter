@@ -10,3 +10,5 @@ Por hacer:
 - Cambiar atributos a private o protected.
 - Mejorar la documentación.
 - Prueba unitaria.
+
+![imagen](https://github.com/user-attachments/assets/472b32e0-21de-472f-91a9-f63df658535e)
