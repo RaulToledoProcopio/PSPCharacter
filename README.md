@@ -9,3 +9,5 @@ Por hacer:
 •	Completar el draw.io con las cardinalidades.
 •	Mejorar la documentación.
 •	Prueba unitaria.
+
+![imagen](https://github.com/user-attachments/assets/9e3516ef-ef8b-4d4f-84c1-05ea3a0c5d82)
