@@ -11,4 +11,4 @@ Por hacer:
 - Mejorar la documentación.
 - Prueba unitaria.
 
-![imagen](https://github.com/user-attachments/assets/472b32e0-21de-472f-91a9-f63df658535e)
+![imagen](https://github.com/user-attachments/assets/584dbe29-b191-496d-88ce-344fc65a1dd8)
