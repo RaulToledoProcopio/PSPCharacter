@@ -5,10 +5,13 @@ Changelog 07/10/2024:
 - Añadido el draw.io aún por finalizar.
 - Añadida prueba unitaria para el item que sumonea el minion.
 
+Changelog 08/10/2024:
+
+- Comentarios Actualizados para mejorar la documentación.
+
 Por hacer:
 
 - Investigar como convertir el overhealing en escudo, fijo o temporal.
-- Cambiar atributos a private o protected.
-- Mejorar la documentación.
-
+- Markdown.
+   
 ![imagen](https://github.com/user-attachments/assets/584dbe29-b191-496d-88ce-344fc65a1dd8)
