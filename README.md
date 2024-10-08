@@ -13,5 +13,6 @@ Por hacer:
 
 - Investigar como convertir el overhealing en escudo, fijo o temporal.
 - Markdown.
+- Crear una clase target para saber si el objetivo está vivo.
    
 ![imagen](https://github.com/user-attachments/assets/584dbe29-b191-496d-88ce-344fc65a1dd8)
