@@ -2,7 +2,7 @@
 
 public class Program
 {
-    static void Main(string[] args)
+    static void Main (string[] args)
     {
         // Crear un nuevo héroe con el nombre Raúl, que tiene 100 puntos de vida, 75 de daño base y 57 de armadura base.
         Character hero = new Character("Raúl", 100, 75, 57);

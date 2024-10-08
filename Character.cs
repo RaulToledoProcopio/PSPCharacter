@@ -11,7 +11,7 @@ public class Character
 
     // Inventario del personaje y minion
     private List<IItem> _inventory = new List<IItem>(); // Lista de ítems en inventario
-    private Minion _minion; // Minion invocado por el personaje
+    private Minion? _minion; // Minion invocado por el personaje
 
     // Constructor para inicializar el personaje con nombre, vida máxima, daño y armadura
     public Character(string name, int maxHitPoints, int baseDamage, int baseArmor)
