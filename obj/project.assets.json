@@ -254,11 +254,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\r_cad\\Documents\\Grado\\PSPCharacter-master\\Ejercicio1.csproj",
+      "projectUniqueName": "C:\\Users\\r_cad\\RiderProjects\\PSPCharacter\\Ejercicio1.csproj",
       "projectName": "Ejercicio1",
-      "projectPath": "C:\\Users\\r_cad\\Documents\\Grado\\PSPCharacter-master\\Ejercicio1.csproj",
+      "projectPath": "C:\\Users\\r_cad\\RiderProjects\\PSPCharacter\\Ejercicio1.csproj",
       "packagesPath": "C:\\Users\\r_cad\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\r_cad\\Documents\\Grado\\PSPCharacter-master\\obj\\",
+      "outputPath": "C:\\Users\\r_cad\\RiderProjects\\PSPCharacter\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\r_cad\\AppData\\Roaming\\NuGet\\NuGet.Config"

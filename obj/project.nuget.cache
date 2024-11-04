@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+7Jt0VuvR7E=",
+  "dgSpecHash": "cSBSQUuc6P0=",
   "success": true,
-  "projectFilePath": "C:\\Users\\r_cad\\Documents\\Grado\\PSPCharacter-master\\Ejercicio1.csproj",
+  "projectFilePath": "C:\\Users\\r_cad\\RiderProjects\\PSPCharacter\\Ejercicio1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\r_cad\\.nuget\\packages\\xunit\\2.9.2\\xunit.2.9.2.nupkg.sha512",
     "C:\\Users\\r_cad\\.nuget\\packages\\xunit.abstractions\\2.0.3\\xunit.abstractions.2.0.3.nupkg.sha512",

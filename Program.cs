@@ -38,14 +38,32 @@ public class Program
 
         // Recibir daño
         hero.ReceiveDamageToHero(20); // El héroe recibe daño especificado, en este caso 20 puntos.
-        Console.WriteLine($"Puntos de vida restantes: {hero.MaxHitPoints}"); // Muestra los puntos de vida restantes del héroe.
+        Console.WriteLine(
+            $"Puntos de vida restantes: {hero.CurrentHitPoints}"); // Muestra los puntos de vida restantes del héroe.
 
         // Curar
-        hero.Heal(10); // El héroe se cura 10 puntos de vida.
-        Console.WriteLine($"Puntos de vida después de curar: {hero.MaxHitPoints}"); // Muestra los puntos de vida después de la curación.
+        hero.Heal(50); // El héroe se cura.
+        Console.WriteLine(
+            $"Puntos de vida después de curar: {hero.CurrentHitPoints}"); // Muestra los puntos de vida después de la curación.
 
-        // Crear un ítem para invocar un minion
-        hero.UseItem(invo); // Utiliza el ítem de invocación para invocar un minion.
+        // Comenzar la batalla
+        
+        while (hero.temporalShield > 0) // Asguramos que no haya invocación y no termine el programa hasta que el escudo temporal se vaya
+        {
+            // Simulación de daño que recibe el héroe
+            hero.ReceiveDamageToHero(30); // Por ejemplo, el héroe recibe 30 de daño
+            Console.WriteLine($"Puntos de vida restantes: {hero.CurrentHitPoints}");
+
+            // Comprobar el estado del escudo
+            if (hero.temporalShield <= 0)
+            {
+                Console.WriteLine($"{hero.Name}'s escudo temporal ha sido roto o agotado.");
+                break; // Salir del bucle si el escudo ha caído
+            }
+        }
+
+        // Invocar el minion
+        hero.SummonMinion("Minion", 100, 25); // Invocación del minion
 
         // Atacar con el minion
         hero.AttackWithMinion(); // Hace que el minion ataque, si existe.
