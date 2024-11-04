@@ -57,7 +57,7 @@ public class Program
             // Comprobar el estado del escudo
             if (hero.temporalShield <= 0)
             {
-                Console.WriteLine($"{hero.Name}'s escudo temporal ha sido roto o agotado.");
+                Console.WriteLine($"El escudo temporal de {hero.Name} se ha roto o agotado.");
                 break; // Salir del bucle si el escudo ha caído
             }
         }

@@ -115,7 +115,7 @@ La clase `Minion` representa un minion que puede ser invocado por el héroe.
 
 ---
 
-Changelog 
+### Changelog 
 
 07/10/2024:
 
@@ -133,6 +133,6 @@ Por hacer:
 
 - Crear una clase target para saber si el objetivo está vivo.
 - Prueba unitaria
-- Arreglar la iamgen
+- Arreglar la imagen
 
 ![imagen](https://github.com/user-attachments/assets/584dbe29-b191-496d-88ce-344fc65a1dd8)
