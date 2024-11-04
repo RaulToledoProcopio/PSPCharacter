@@ -127,11 +127,12 @@ Changelog
 04/11/2024:
 
 - Agregado escudo temporal para el overhealing
+- Markdown añadido
 
 Por hacer:
 
-- Markdown
 - Crear una clase target para saber si el objetivo está vivo.
 - Prueba unitaria
+- Arreglar la iamgen
 
 ![imagen](https://github.com/user-attachments/assets/584dbe29-b191-496d-88ce-344fc65a1dd8)
